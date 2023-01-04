@@ -46,3 +46,7 @@ group :development do
   # gem "spring"
 end
 
+
+gem "httparty", "~> 0.21.0"
+gem "dotenv-rails", "~> 2.8"
+gem "net-http", "~> 0.3.2"
