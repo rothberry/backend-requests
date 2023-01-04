@@ -27,3 +27,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Hide our environment variables
+.env
